@@ -3,7 +3,7 @@ title: "List of SOC service providers"
 date: 2021-09-24T20:00:34Z
 ---
 
-This is a list of Security Operation Center (SOC) companies in Finland. These companies can help you in case of a security incident. Purpose of this list is to give organizations a list of active SOC companies. 
+This is a list of Security Operation Center (SOC) companies in Finland. These companies can help you to monitor your infra for security incidents. Purpose of this list is to give organizations a list of active SOC companies. 
 
 | Company | Website | Notes | 
 |---|---|---|
