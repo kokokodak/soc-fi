@@ -171,7 +171,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "contribute"
     name       = "Contribute"
-    url        = "https://github.org/soc-fi/soc-fi"
+    url        = "https://github.com/soc-fi/soc-fi"
   [[menu.main]]
     identifier = "dfir"
     name       = "DFIR"
