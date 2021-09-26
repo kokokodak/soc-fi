@@ -7,17 +7,17 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 
 | Company | Website | Notes | 
 |---|---|---|
-| Accenture | [https://www.accenture.com/fi-en/services/security/cyber-defense](https://wwwo.accenture.com/fi-en/services/security/cyber-defense) |
-| CGI | [https://www.cgi.com/fi/fi/tietoturva/SOC](https://www.cgi.com/fi/fi/tietoturva/SOC)
-| Cinia | [https://www.cinia.fi/en/solutions/cyber-security-solutions](https://www.cinia.fi/en/solutions/cyber-security-solutions)
-| DNA | [https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus](https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus)
-| Elisa | [https://yrityksille.elisa.fi/en/cyber-security](https://yrityksille.elisa.fi/en/cyber-security)
-| Fiarone | [https://www.fiarone.com/en/oversee_soc](https://www.fiarone.com/en/oversee_soc)
-| Fujitsu | [https://www.fujitsu.com/fi/services/security/offerings/soc/](https://www.fujitsu.com/fi/services/security/offerings/soc/)
-| Insta | [https://www.insta.fi/en/services/cyber-security/soc-services](https://www.insta.fi/en/services/cyber-security/soc-services) |
-| Loihde | [https://www.loihdetrust.com/palvelut/kyberturvakeskus/](https://www.loihdetrust.com/palvelut/kyberturvakeskus/)
-| Nixu |[https://www.nixu.com/services/cyber-defense](https://www.nixu.com/services/cyber-defense) |
-| Telia Cygate | [https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service](https://www.teliacygate.fi/fi/tietoturvapalvelut/osoc-as-a-service) |
-| TietoEVRY | [https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/](https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/)
+|Accenture | [https://www.accenture.com/fi-en/services/security/cyber-defense](https://wwwo.accenture.com/fi-en/services/security/cyber-defense) |
+|CGI | [https://www.cgi.com/fi/fi/tietoturva/SOC](https://www.cgi.com/fi/fi/tietoturva/SOC)
+|Cinia | [https://www.cinia.fi/en/solutions/cyber-security-solutions](https://www.cinia.fi/en/solutions/cyber-security-solutions)
+|DNA | [https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus](https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus)
+|Elisa | [https://yrityksille.elisa.fi/en/cyber-security](https://yrityksille.elisa.fi/en/cyber-security)
+|Fiarone | [https://www.fiarone.com/en/oversee_soc](https://www.fiarone.com/en/oversee_soc)
+|Fujitsu | [https://www.fujitsu.com/fi/services/security/offerings/soc/](https://www.fujitsu.com/fi/services/security/offerings/soc/)
+|Insta | [https://www.insta.fi/en/services/cyber-security/soc-services](https://www.insta.fi/en/services/cyber-security/soc-services) |
+|Loihde | [https://www.loihdetrust.com/palvelut/kyberturvakeskus/](https://www.loihdetrust.com/palvelut/kyberturvakeskus/)
+|Nixu |[https://www.nixu.com/services/cyber-defense](https://www.nixu.com/services/cyber-defense) |
+|Telia Cygate | [https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service](https://www.teliacygate.fi/fi/tietoturvapalvelut/osoc-as-a-service) |
+|TietoEVRY | [https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/](https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/)
 
 This list is maintained on Github. Anyone is welcome to add companies that provide SOC and work inside of Finland.
