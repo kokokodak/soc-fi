@@ -12,6 +12,7 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 |Cinia | [https://www.cinia.fi/en/solutions/cyber-security-solutions](https://www.cinia.fi/en/solutions/cyber-security-solutions)
 |DNA | [https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus](https://www.dna.fi/yrityksille/tietoturva/tietoturvakeskus)
 |Elisa | [https://yrityksille.elisa.fi/en/cyber-security](https://yrityksille.elisa.fi/en/cyber-security)
+|Enfo|[https://insights.enfogroup.com/cybersecurity](https://insights.enfogroup.com/cybersecurity)
 |Fiarone | [https://www.fiarone.com/en/oversee_soc](https://www.fiarone.com/en/oversee_soc)
 |Fujitsu | [https://www.fujitsu.com/fi/services/security/offerings/soc/](https://www.fujitsu.com/fi/services/security/offerings/soc/)
 |Insta | [https://www.insta.fi/en/services/cyber-security/soc-services](https://www.insta.fi/en/services/cyber-security/soc-services) |
