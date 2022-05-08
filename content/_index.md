@@ -17,6 +17,7 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 |Fujitsu | [https://www.fujitsu.com/fi/services/security/offerings/soc/](https://www.fujitsu.com/fi/services/security/offerings/soc/)
 |Insta | [https://www.insta.fi/en/services/cyber-security/soc-services](https://www.insta.fi/en/services/cyber-security/soc-services) |
 |Loihde | [https://www.loihdetrust.com/palvelut/kyberturvakeskus/](https://www.loihdetrust.com/palvelut/kyberturvakeskus/)
+|Netox | [https://netox.fi/palvelut/kyberturvapalvelut/](https://netox.fi/palvelut/kyberturvapalvelut/) |
 |Nixu |[https://www.nixu.com/services/cyber-defense](https://www.nixu.com/services/cyber-defense) |
 |Telia Cygate | [https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service](https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service) |
 |TietoEVRY | [https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/](https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/)
