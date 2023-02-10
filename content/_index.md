@@ -21,6 +21,7 @@ This is a list of Security Operation Center (SOC) companies in Finland. These co
 |Netox | [https://netox.fi/palvelut/kyberturvapalvelut/](https://netox.fi/palvelut/kyberturvapalvelut/) |
 |Nixu |[https://www.nixu.com/services/cyber-defense](https://www.nixu.com/services/cyber-defense) |
 |Telia Cygate | [https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service](https://www.teliacygate.fi/fi/tietoturvapalvelut/soc-as-a-service) |
-|TietoEVRY | [https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/](https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/)
+|TietoEVRY | [https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/](https://www.tietoevry.com/en/services/Cybersecurity/agile-security-operations/) |
+|Truesec | [https://www.truesec.com/how-we-help/our-services/detect-and-disarm](https://www.truesec.com/how-we-help/our-services/detect-and-disarm) |
 
 This list is maintained on Github. Anyone is welcome to add companies that provide SOC and work inside of Finland.
